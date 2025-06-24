@@ -1,7 +1,7 @@
 # 🔐 BoltEscrow - Secure Cryptocurrency Escrow Telegram Bot
 
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/BoltEscrowBot)
-[![Crypto](https://img.shields.io/badge/Crypto-Escrow-orange.svg)](https://github.com/yourusername/mardibot)
+[![Crypto](https://img.shields.io/badge/Crypto-Escrow-orange.svg)](https://github.com/FundKal/BoltEscrowBot)
 [![Security](https://img.shields.io/badge/Security-Guaranteed-green.svg)](https://t.me/BoltEscrowVouches)
 
 ## Secure Cryptocurrency Transactions Made Easy
