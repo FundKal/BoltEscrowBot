@@ -8,12 +8,25 @@
 
 **BoltEscrow** is a fully automated cryptocurrency escrow service for Telegram that protects both buyers and sellers during digital transactions. The bot acts as a trusted third party, holding funds in secure escrow wallets until both parties confirm the transaction is complete.
 
-![Bot Preview](https://i.ibb.co/placeholder-image-link.jpg)
+**⚡ BoltEscrowBot – Secure Telegram Crypto Escrow Bot**
+BoltEscrowBot is a fast, secure, and automated Telegram Escrow Bot designed to protect users trading digital goods and services with cryptocurrency. It serves as a Telegram middleman, holding funds in escrow until both buyer and seller agree on the deal.
+
+Whether you're buying eBooks, digital tools, blackhat services, or anything else over Telegram, BoltEscrowBot ensures your funds are safe from scams and manipulation.
+
+![Bot Preview](https://iili.io/FTqxRg2.png)
+
+**🔐 What Is BoltEscrowBot?**
+A modern, intelligent Telegram Crypto Escrow Service that:
+Locks funds until both buyer and seller agree
+Allows only the buyer to release funds
+Allows only the seller to refund
+Enables admins to resolve disputes fairly
+Prevents common scams in Telegram deals
 
 ## 🌟 Why Choose BoltEscrow?
 
 - **100% Automated** - No human intervention required for standard transactions
-- **Multi-Currency Support** - BTC, ETH, SOL, LTC, USDT(TRC20)
+- **Multi-Currency Support** - BTC, SOL, LTC, USDT(TRC20)
 - **Secure Escrow** - Funds held in protected wallets with blockchain verification
 - **Dispute Resolution** - Professional admins available to resolve issues
 - **Transparent Fees** - Clear fee structure (5% for deals over $100, $5 flat for smaller deals)
@@ -22,7 +35,7 @@
 
 ## 📊 Impressive Track Record
 
-- **Successful Deals**: Thousands of completed transactions
+- **Successful Deals**: Hundreds of completed transactions
 - **Total Volume**: Millions in cryptocurrency securely exchanged
 - **User Trust**: Growing community of repeat customers
 - **Dispute Rate**: Less than 1% of all transactions
@@ -60,8 +73,8 @@ Our escrow system utilizes best-in-class security practices:
 ## 📞 Contact & Support
 
 For business inquiries, partnerships, or support:
-- Telegram: [@BoltEscrowSupport](https://t.me/BoltEscrowSupport)
-- Email: support@boltescrow.com
+- Telegram: [@Fundkal](https://t.me/FundKal)
+
 
 ---
 
