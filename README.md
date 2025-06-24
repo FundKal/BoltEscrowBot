@@ -56,8 +56,7 @@ Prevents common scams in Telegram deals
 
 ## 📑 Explore More
 
-- [Complete Feature List](./documentation/FEATURES.md)
-- [Setup & Installation Guide](./documentation/SETUP.md)
+- [Complete Feature List](./FEATURES.md)
 - [Telegram Channel](https://t.me/BoltEscrowUpdates)
 - [Reviews & Testimonials](https://t.me/BoltEscrowVouches)
 
